@@ -1,0 +1,10 @@
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBar.Form1.resources
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBAR.Properties.Resources.resources
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBAR.csproj.GenerateResource.cache
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBAR.csproj.CoreCompileInputs.cache
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\bin\Release\PressureBAR.exe.config
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\bin\Release\PressureBAR.exe
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\bin\Release\PressureBAR.pdb
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBAR.csprojAssemblyReference.cache
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBAR.exe
+C:\Users\C0D3R\Desktop\xwxwxw\PressureBar_0.4\WindowsFormsApp1\obj\Release\PressureBAR.pdb
